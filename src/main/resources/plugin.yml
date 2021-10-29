@@ -1,0 +1,12 @@
+name: BedwarsReloaded
+version: ${project.version}
+main: com.exortions.bedwarsreloaded.bukkit.BedwarsReloaded
+authors: [ Exortions ]
+description: BedwarsReloaded is a Bedwars plugin for Minecraft servers.
+commands:
+  bedwars:
+    description: Main command for BedwarsReloaded.
+    aliases:
+      - bedwarsreloaded
+      - bw
+      - br

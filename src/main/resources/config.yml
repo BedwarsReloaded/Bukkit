@@ -1,0 +1,13 @@
+database:
+  # MySQL or SQLite
+  type: "mysql"
+  # Only for SQLite
+  path: "database.db"
+
+  # For MySQL
+  database: "bedwarsreloaded"
+  host: "localhost"
+  port: "3306"
+
+  username: "root"
+  password: "pass"
